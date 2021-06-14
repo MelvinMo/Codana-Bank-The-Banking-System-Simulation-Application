@@ -1,0 +1,21 @@
+{
+    "barghi": {
+        "accounts": [
+        ],
+        "user": {
+            "ID": "4440129218",
+            "birthDate": "۲۰۰۰-۰۱-۰۱",
+            "email": "mahdi_b7978@yahoo.com",
+            "lastName": "برقی",
+            "logs": [
+                {
+                    "login": "۲۰۲۱-۰۵-۱۹ ۱۴:۱۱",
+                    "logout": "۲۰۲۱-۰۵-۱۹ ۱۴:۱۲"
+                }
+            ],
+            "name": "محمد",
+            "password": "1234",
+            "username": "barghi"
+        }
+    }
+}
